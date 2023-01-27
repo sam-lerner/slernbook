@@ -1,4 +1,4 @@
-const { Schema, model } = require("mongoose");
+const { Schema, Types } = require("mongoose");
 const dateFormat = require("../utils/dateHelper");
 
 const reactionSchema = new Schema(
@@ -27,6 +27,6 @@ const reactionSchema = new Schema(
 
 // This will not be a model, but rather will be used as the reaction field's subdocument schema in the Thought model.
 
-const Reaction = model('reaction', reactionSchema);
+// const Reaction = model('reaction', reactionSchema);
 
-module.exports = Reaction;
+module.exports = reactionSchema;

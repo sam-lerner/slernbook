@@ -1,6 +1,7 @@
 {
   "name": "slernbook",
   "version": "1.0.0",
+  "author": "Sam Lerner",
   "description": "Social media back end",
   "main": "index.js",
   "license": "MIT",

@@ -29,7 +29,7 @@ Here is a GIF demonstrating functionality:
 
 ![Here is a video demonstrating functionality](./assets/images/walkthrough-gif.gif)
 
-To view a higher resolution version of this video, please navigate to my [Google Drive](https://drive.google.com/file/d/1AhzIrhZT78gkjifQESdpkUu5YC4q9ZNf/view).
+To view a higher resolution version of this video, please navigate to my [Google Drive](https://drive.google.com/file/d/1FgLaV-s0WfEZR1ZOdWu-KHU--ihzQrJK/view).
 
 ## Contributions
 
